@@ -19,7 +19,7 @@ To be able to run our app you will need to have installed:
 
 The first thing the user must do is to sign up to the app by creating a username and password. 
 
-The user have an opction called "User Information" where their personal data will me displayed (CV, academic information, options applied and university responses).
+The user have an opction called **"User Information"** where their personal data will me displayed (CV, academic information, options applied and university responses).
 
 The user will have two main option to choose:
 
