@@ -1,6 +1,8 @@
 # Project Name: UNIfy
 
-UNIfy is an application that aims to help and facilitate the students that have doubts in their university choice.
+The university application process is a dreadful and inefficient one due to the fact that the students suffer from information failure. Meaning they don’t have all the knowledge they need available when it comes to what university is best tailored to their needs and interests. 
+
+‘UNIfy’ is a student-founded application that came about from analysing the problems we faced when attempting to find the best university for ourselves. 
 
 Our application has two main functions:
 
@@ -14,7 +16,7 @@ Our application has two main functions:
 To be able to run our app you will need to have installed:
 
   - Python proggraming language - It will work with version 3
-  - In order to run our program you will need to have installed the following libraries: tkinter, functools and heapq_max
+  - In order to run our program you will need to have installed the following libraries: tkinter, functools and heapq_max.
 
 Once everything is installed, you can open the file called "app_code.py" and run the program.
 
@@ -24,9 +26,9 @@ The first thing the user must do is to login to the app by typing the username a
 
 The user will have two main option to choose:
 
-  - Filtering universities by characteristics 
+  - Filtering universities by characteristics. 
 
-  - Find the university that matches you the most
+  - Find the university that matches you the most.
 
 **Filter:**
 
@@ -47,19 +49,19 @@ The user will have two main option to choose:
 
 ## PROJECT STATUS
 
-Our app is in progress
+Our app is in progress.
 
 ## APP MOCK-UPS
 
 <img width="589" alt="Screenshot 2022-12-08 at 19 22 39" src="https://user-images.githubusercontent.com/119240158/206535211-03f0e84f-5910-4560-a483-9b2e024ad6fe.png">
 
-**Picture 1:** cover page of UNIfy
+**Picture 1:** cover page of UNIfy.
 
-**Picture 2:** login page were the users will type their username and password
+**Picture 2:** login page were the users will type their username and password.
 
-**Picture 3:** main page where the two main function of the app are shown in order to choose one 
+**Picture 3:** main page where the two main function of the app are shown in order to choose one. 
 
-**Picture 4:** an example of how the filter option will look like
+**Picture 4:** an example of how the filter option will look like.
 
 
 ## CREDITS
