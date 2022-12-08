@@ -4,9 +4,9 @@ UNIfy is an application that aims to help and facilitate the students that have 
 
 Our application has two main functions:
 
-  - Filtering universities by characteristics.
+  - **Function 1:** Filtering universities by characteristics.
 
-  - Helping users to choose universities that matches the most their personality.
+  - **Function 2:** Helping users to choose universities that matches the most their personality.
 
 
 ## INSTALLATION
@@ -16,7 +16,7 @@ To be able to run our app you will need to have installed:
   - Python proggraming language - It will work with version 3
   - In order to run our program you will need to have installed the following libraries: tkinter, functools and heapq_max
 
-Once everything is installed, you can open the file called "" and run the program.
+Once everything is installed, you can open the file called "app_code.py" and run the program.
 
 ## USAGE
 
@@ -30,7 +30,7 @@ The user will have two main option to choose:
 
 **Filter:**
 
-  - The user will be asked which characteristic they want to filter the universities by.
+  - The user will be asked which characteristics they want to filter the universities by such as study type, public or private, study fields, location, annual budget or language.
   - The user types in the filter they want to set and the system will display different options  regarding the previously selected filter. 
   - The user will have to choose the option they find most appealing. The system will allow the user to add many filters to the search. 
   - Once the characteristics have been selected and the user doesn't want to select more filters, the user types ‘no’.
