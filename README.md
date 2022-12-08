@@ -1,62 +1,59 @@
 # Project Name: UNIfy
 
-UNIfy is an application that aims to help and facilitate the university application process for all students.
+UNIfy is an application that aims to help and facilitate the students that have doubts in their university choice.
 
 Our application has two main functions:
 
-1-Help people who have to apply to university but are not sure which studies to choose or which university to attend.
+  - Filtering universities by characteristics.
 
-2-Facilitate the application process for students who are clear about all their career options and where to study each of them.
+  - Helping users to choose universities that matches the most their personality.
 
 
-## Installation
+## INSTALLATION
 
 To be able to run our app you will need to have installed:
 
--Python proggraming language
+  - Python proggraming language - It will work with version 3
+  - In order to run our program you will need to have installed the following libraries: tkinter, functools and heapq_max
 
-## Usage
+Once everything is installed, you can open the file called "" and run the program.
 
-The first thing the user must do is to sign up to the app by creating a username and password. 
+## USAGE
 
-The user have an opction called **"User Information"** where their personal data will me displayed (CV, academic information, options applied and university responses).
+The first thing the user must do is to login to the app by typing the username and password. 
 
 The user will have two main option to choose:
 
--Help me choose
+  - Filtering universities by characteristics 
 
--Time to apply
+  - Find the university that matches you the most
 
-**1)Help me choose:**
+**Filter:**
 
-1.The user will be redirected to the page where personality tests can be done.
+  - The user will be asked which characteristic they want to filter the universities by.
+  - The user types in the filter they want to set and the system will display different options  regarding the previously selected filter. 
+  - The user will have to choose the option they find most appealing. The system will allow the user to add many filters to the search. 
+  - Once the characteristics have been selected and the user doesn't want to select more filters, the user types ‘no’.
+  - The system will show the user the universities that match the filters that have been selected previously.
 
-2.The app will show the best options that match with your personality, academic level and your curriculum prevously submitted.
+**Find the university that matches you the most:**
 
-3.The user can filter the options given by location, price and academic sector.
+  - The app will provide the user with a questionnaire with questions related to his or her personality in order to know his or her tastes and preferences.The questionnaire has 7 different questions, each one about a different quality such as spirit, person type, team work, study type, study fields, annual budget and language.
+  - The questions will be asked one by one and each one will give the user a number of possible answers (from 2 to 5) so that he/she can choose which of these options he/she identifies with the most. 
+  - Once the test has been taken, the system will evaluate all the answers and, according to these, will provide the user with the university that best suits him/her.
+  - If the user wants to apply to the choosen university, the app will provide you with the contact information of the university.
 
-4.The user will be shown the filtered list of options that fulfill the requirements already established by them.
+ 
 
-**2) Time to apply:**
-
-1.The user will be able to search for universities and degrees and select them.
-
-2.After this, the app will provide you with a “To do list” with all the information you need to fill in for the chosen universities. 
-
-**Chat**
-
-There will also be a chat to talk to people who study the selected degrees or that go to the chosen universities in order to ask them questions. 
-
-## Project Status
+## PROJECT STATUS
 
 Our app is in progress
 
-## App Mock-ups
-
-<img width="647" alt="Screenshot 2022-11-27 at 20 31 46" src="https://user-images.githubusercontent.com/119240158/204155809-6cf24209-09fa-451c-8acb-404b1dd8b4e6.png">
+## APP MOCK-UPS
 
 
-## Credits
+
+## CREDITS
 
 **Our Team:**
 
