@@ -51,6 +51,15 @@ Our app is in progress
 
 ## APP MOCK-UPS
 
+<img width="589" alt="Screenshot 2022-12-08 at 19 22 39" src="https://user-images.githubusercontent.com/119240158/206535211-03f0e84f-5910-4560-a483-9b2e024ad6fe.png">
+
+**Picture 1:** cover page of UNIfy
+
+**Picture 2:** login page were the users will type their username and password
+
+**Picture 3:** main page where the two main function of the app are shown in order to choose one 
+
+**Picture 4:** an example of how the filter option will look like
 
 
 ## CREDITS
